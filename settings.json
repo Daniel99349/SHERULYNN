@@ -1,13 +1,13 @@
 {
-"autoread": false,
+"autoread": true,
 "autoplaymusic": true,
 "autocomposing": false,
-"autorecording": true,
-"NamaBot":"S H E R L Y N N", 
-"NomorOwner":"6281220670449", 
-"NamaOwner":"KurrXd", 
-"Dana":"081220670449", 
-"Ovo":"081220670449", 
-"Gopay":"081220670449", 
+"autorecording": false,
+"NamaBot":"Daniel", 
+"NomorOwner":"6289624082021", 
+"NamaOwner":"Daniel", 
+"Dana":"089624082021", 
+"Ovo":"089624082021", 
+"Gopay":"089624082021", 
 "HunterApi":"Ikyy69"
 }
